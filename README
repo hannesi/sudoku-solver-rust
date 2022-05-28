@@ -1,1 +1,1 @@
-Feed me a sudoku in csv format.
+Feed me a sudoku in csv format and I will solve it using a backtracking algorithm.
